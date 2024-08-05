@@ -1,0 +1,364 @@
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-name="BBC 1" group-title="UK",BBC 1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/xbbc1/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" tvg-name="BBC 2" group-title="UK",BBC 2
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/xbbc2/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZN.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" tvg-name="DAZN 1 UK" group-title="UK",DAZN 1 UK
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/dazn1uk/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" tvg-name="Eurosport 1" group-title="UK",Eurosport 1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayereurosp1/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" tvg-name="Eurosport 2" group-title="UK",Eurosport 2
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayereurosp2/playlist.m3u8
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" tvg-name="Premier Sports 1" group-title="UK",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/premier1uk/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" tvg-name="Sky Sports Action" group-title="UK",Sky Sports Action
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/skyaction/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-arena-uk.png?raw=true" tvg-name="Sky Sports Arena" group-title="UK",Sky Sports Arena
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/skyarena/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" tvg-name="Sky Sports Cricket" group-title="UK",Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerskycric/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" tvg-name="Sky Sports F1" group-title="UK",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerskyf1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" tvg-name="Sky Sports Football" group-title="UK",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerskyfoot/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" tvg-name="Sky Sports Golf" group-title="UK",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/skygolf/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" tvg-name="Sky Sports Main Event" group-title="UK",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerskymain2/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" tvg-name="Sky Sports Mix" group-title="UK",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/skymix/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-name="Sky Sports Premier League" group-title="UK",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerSKYPL/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1" group-title="UK",TNT Sports 1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerdigitvbt1/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2" group-title="UK",TNT Sports 2
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerdigitvbt2/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3" group-title="UK",TNT Sports 3
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerdigitvbt3/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4" group-title="UK",TNT Sports 4
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerdigitvbt4/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNEWS.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-us.png?raw=true" tvg-name="ABC News" group-title="USA",ABC News
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvabcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-white-us.png?raw=true" tvg-name="ABC" group-title="USA",ABC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvabc/playlist.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC Network" group-title="USA",ACC Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/accn/playlist.m3u8
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="AE" group-title="USA",AE
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvae/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" tvg-name="AMC" group-title="USA",AMC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvamc/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" tvg-name="Animal Planet" group-title="USA",Animal Planet
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true" tvg-name="Axs Tv" group-title="USA",AXS TV
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvaxs/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" tvg-name="BBC America" group-title="USA",BBC America
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvbbcamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-us.png?raw=true" tvg-name="BET" group-title="USA",BET
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvbet/playlist.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="BTN" group-title="USA",BTN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvbtn/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" tvg-name="Boomerang" group-title="USA",Boomerang
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvboom/playlist.m3u8
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-name="Bravo TV" group-title="USA",Bravo TV
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvbravo/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-name="CBS" group-title="USA",CBS
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcbs/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-name="CBSSN" group-title="USA",CBSSN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcbssn/playlist.m3u8
+#EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnbc-us.png?raw=true" tvg-name="CNBC" group-title="USA",CNBC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN" group-title="USA",CNN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcnn/playlist.m3u8
+#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" tvg-name="CW" group-title="USA",CW
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcw/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="Cinemax" group-title="USA",Cinemax
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcinemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" tvg-name="Comedy Central" group-title="USA",Comedy Central
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvcomedycentral/playlist.m3u8
+#EXTINF:-1 tvg-id="Destination.America.HDTV.(DESTAMHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America" group-title="USA",Destination America
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvdestinationamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true" tvg-name="Discovery Channel" group-title="USA",Discovery Channel
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvdiscoverychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-channel-us.png?raw=true" tvg-name="Disney Channel" group-title="USA",Disney Channel
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvdisney/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" tvg-name="Disney JR" group-title="USA",Disney JR
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvdisneyjr/playlist.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E Entertainement" group-title="USA",E Entertainement
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvee/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" tvg-name="ESPN" group-title="USA",ESPN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerespn_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-name="ESPN 2" group-title="USA",ESPN 2
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerespn2_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-deportes-us.png?raw=true" tvg-name="ESPN Deportes" group-title="USA",ESPN Deportes
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerespn_dep/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-name="ESPN News" group-title="USA",ESPN News
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvespnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-name="ESPNU" group-title="USA",ESPNU
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerespn_u/playlist.m3u8
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true" tvg-name="Food Network" group-title="USA",Food Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvfoodnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-name="Fox" group-title="USA",Fox
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvfox/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true" tvg-name="Fox News" group-title="USA",Fox News
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvfoxnnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FOX Sports 1" group-title="USA",FOX Sports 1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerfs1/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FOX Sports 2" group-title="USA",FOX Sports 2
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerfs2/playlist.m3u8
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/freeform-us.png?raw=true" tvg-name="Freeform" group-title="USA",Freeform
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvfreeform/playlist.m3u8
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" tvg-name="GOLF Channel" group-title="USA",GOLF Channel
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvgolfchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" tvg-name="HBO" group-title="USA",HBO
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhbo/playlist.m3u8
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" tvg-name="HGTV" group-title="USA",HGTV
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhgtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png?raw=true" tvg-name="Hallmark" group-title="USA",Hallmark
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhallmark/playlist.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Movies Mysteries TV" group-title="USA",Hallmark Movies Mysteries
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhallmarkmoviesmisteries/playlist.m3u8
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/history-channel-us.png?raw=true" tvg-name="History" group-title="USA",History
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhistory/playlist.m3u8
+#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" tvg-name="HLN" group-title="USA",HLN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvhln/playlist.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" tvg-name="Investigation Discovery" group-title="USA",Investigation Discovery
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvinvestigationdiscovery/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-us.png?raw=true" tvg-name="Lifetime" group-title="USA",Lifetime
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvlifetime/playlist.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/lifetime-movie-network-us.png?raw=true" tvg-name="Lifetime Movies Network" group-title="USA",Lifetime Movies Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvlifetimemovienetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" tvg-name="MLB Network" group-title="USA",MLB Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvmlbnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" tvg-name="MSNBC" group-title="USA",MSNBC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvmsnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" tvg-name="National Geographic" group-title="USA",National Geographic
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvnationalgeographic/playlist.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-icon-us.png" tvg-name="NBA TV" group-title="USA",NBA TV
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/nbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-us.png?raw=true" tvg-name="NBC" group-title="USA",NBC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(Dish).(NBCSBA).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-bay-area-us.png?raw=true" tvg-name="NBC Sports Bay Area" group-title="USA",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/nbcsa/playlist.m3u8
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-name="NFL Network" group-title="USA",NFL Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerNFLNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.HDTV.(NFLRZD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" tvg-name="NFL Redzone" group-title="USA",NFL Redzone
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvnflredzone/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" tvg-name="NHL Network" group-title="USA",NHL Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/nhlnet/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" tvg-name="Nickelodeon TV" group-title="USA",Nickelodeon
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvnickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" tvg-name="Nicktoons" group-title="USA",Nicktoons
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvnicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network" group-title="USA",SEC Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/eplayerSECNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-icon-us.png" tvg-name="Showtime" group-title="USA",Showtime
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvshowtime/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" tvg-name="Syfy" group-title="USA",Syfy
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvsyfy/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" tvg-name="TBS" group-title="USA",TBS
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/tbs/playlist.m3u8
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" tvg-name="TLC" group-title="USA",TLC
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvtlc/playlist.m3u8
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-name="TNT" group-title="USA",TNT
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvtnt/playlist.m3u8
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" tvg-name="TUDN" group-title="USA",TUDN
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/tudnusa/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" tvg-name="Tennis Channel" group-title="USA",Tennis Channel
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/premium714/playlist.m3u8
+#EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="Tv Land" group-title="USA",TV Land
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvtvland/playlist.m3u8
+#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" tvg-name="Univision" group-title="USA",Univision
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvunivision/playlist.m3u8
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" tvg-name="USA Network" group-title="USA",USA Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/usanetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-name="Willov TV" group-title="USA",Willov Cricket
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/willowtvcricket/playlist.m3u8
+#EXTINF:-1 tvg-id="Willow.Xtra.(WILLX).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" tvg-name="Willow Xtra" group-title="USA",Willow Xtra
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/willowxtra/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYN.Azteca.America.39.(WNYN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/azteca-america-us.png?raw=true" tvg-name="Wnyw" group-title="USA",WNYW Azteca America
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvwnyw/playlist.m3u8
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" tvg-name="Wwe Network" group-title="USA",WWE Network
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/ustvwwe/playlist.m3u8
+#EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES" group-title="USA",YES
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
+https://topembed.mizhls.ru/lb/yesnet/playlist.m3u8
